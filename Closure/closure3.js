@@ -1,4 +1,4 @@
-//Closure
+//Closure.
 
 function outer(x){
 
