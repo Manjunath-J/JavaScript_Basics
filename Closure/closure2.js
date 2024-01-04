@@ -1,4 +1,4 @@
-//Closure.
+//Closure
 
 /** Closure gives you access to an outer function scope from an inner function even after outer function has been executed */
 
